@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1453
     wikipedia: http://en.wikipedia.org/wiki/Peter_Kropotkin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31104#The-Place-of-Anarchism-in-Socialistic-EvolutionAn-Address-Delivered-in-Paris
 gutenberg_issued: '2010-01-27'
 gutenberg_type: Text
 identifiers:
